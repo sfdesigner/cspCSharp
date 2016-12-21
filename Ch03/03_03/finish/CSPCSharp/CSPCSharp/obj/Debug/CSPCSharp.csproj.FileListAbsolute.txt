@@ -1,0 +1,6 @@
+C:\Users\dougw\OneDrive\Documents\Courses and Presentations\03 Working On\508646 - CSP Programming Lab - C#\Exercise Files\Ch03\03_03\finish\CSPCSharp\CSPCSharp\bin\Debug\CSPCSharp.exe.config
+C:\Users\dougw\OneDrive\Documents\Courses and Presentations\03 Working On\508646 - CSP Programming Lab - C#\Exercise Files\Ch03\03_03\finish\CSPCSharp\CSPCSharp\bin\Debug\CSPCSharp.exe
+C:\Users\dougw\OneDrive\Documents\Courses and Presentations\03 Working On\508646 - CSP Programming Lab - C#\Exercise Files\Ch03\03_03\finish\CSPCSharp\CSPCSharp\bin\Debug\CSPCSharp.pdb
+C:\Users\dougw\OneDrive\Documents\Courses and Presentations\03 Working On\508646 - CSP Programming Lab - C#\Exercise Files\Ch03\03_03\finish\CSPCSharp\CSPCSharp\obj\Debug\CSPCSharp.csprojResolveAssemblyReference.cache
+C:\Users\dougw\OneDrive\Documents\Courses and Presentations\03 Working On\508646 - CSP Programming Lab - C#\Exercise Files\Ch03\03_03\finish\CSPCSharp\CSPCSharp\obj\Debug\CSPCSharp.exe
+C:\Users\dougw\OneDrive\Documents\Courses and Presentations\03 Working On\508646 - CSP Programming Lab - C#\Exercise Files\Ch03\03_03\finish\CSPCSharp\CSPCSharp\obj\Debug\CSPCSharp.pdb
