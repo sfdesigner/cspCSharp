@@ -14,9 +14,6 @@ namespace CSPCSharp
 
             int anotherValue = new Int16();
             anotherValue = 5;
-
-            Int16 myOtherValue = new short();
-            myOtherValue = 5;
         }
     }
 }
